@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://sample-web-service-aut.herokuapp.com'</initValue>
+      <name>baseUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>200</initValue>
+      <name>successCode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>0</initValue>
+      <name>globalId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://reqres.in'</initValue>
+      <name>endPoint</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://jobapplicationjwt.herokuapp.com/users/sign-up'</initValue>
+      <name>Reg_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://jobapplicationjwt.herokuapp.com/users/authenticate'</initValue>
+      <name>auth_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'default value'</initValue>
+      <name>token</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>TOKEN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>LAST One is Bench Report id&quot;https://api.octoperf.com/app/#/app/workspace/OLICyYIBrZGjujUF3hV5/project/cDADyYIBWxC3VobJk7Vc/analysis/tj7T5YMBF4ewSVRxTWua&quot;</description>
+      <initValue>'Lhpe-YMBWCb79HVDV3Dr'</initValue>
+      <name>BENCH_REPORT_ID</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
