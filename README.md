@@ -25,11 +25,11 @@ Users should have an Octoperf account up and running with workspace, projects, a
 
 
 # How to automate
-Setup your project on Octoperf(https://api.octoperf.com/)
-Increasing the virtual load.
-Run and Analysis the test.
-Verify the report in pdf format.
-Download the report by using the katalon-octoperf-sample project.
+* Setup your project on Octoperf(https://api.octoperf.com/)
+* Increasing the virtual load.
+* Run and Analysis the test.
+* Verify the report in pdf format.
+* Download the report by using the katalon-octoperf-sample project.
 
 
 **Repository for the Sample Project:**
