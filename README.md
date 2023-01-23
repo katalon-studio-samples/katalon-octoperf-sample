@@ -24,11 +24,6 @@ Test a application (https://www.katalonhealthcare.com) with 10 users
 * Octoperf Account.
 
 
-
-Generate a .har file on chrome/firefox etc by recording all the action for your test website.
-Users should have an Octoperf account up and running with workspace, projects, and virtual users.
-
-
 # How to automate
 * Generate a .har file on browser(Chrome/firefox) by recording all the action for your test website
 
