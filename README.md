@@ -3,8 +3,6 @@
 
 In this article we are focusing on how katalon studio helps users to do the performance testing by using a tool called Octoperf.
 
-# Let’s begin
-
 
 # What is Octoperf
 
