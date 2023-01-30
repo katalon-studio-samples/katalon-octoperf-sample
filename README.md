@@ -35,7 +35,7 @@ Test a application (https://www.katalonhealthcare.com) with 10 users
 
 ![image](https://user-images.githubusercontent.com/84115288/214032175-0d116ae6-61a4-4171-ba47-94d7ddf4d8b0.png)
 
-* Run and Analysis the test.
+* Run and analysis the test.
 
 ![image](https://user-images.githubusercontent.com/84115288/214032821-102624f1-4eb1-41e9-8b60-2c4e64f34f01.png)
 
