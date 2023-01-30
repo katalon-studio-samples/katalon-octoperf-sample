@@ -18,7 +18,7 @@ Test a application (https://www.katalonhealthcare.com) with 10 users
 
 
 # Prerequisite
-* Katalon Studio
+* [Katalon Studio][KS]
 * Octoperf Account.
 
 
@@ -45,6 +45,7 @@ Test a application (https://www.katalonhealthcare.com) with 10 users
 
 * Download the report by using the katalon-octoperf-sample project.
 
+[KS]: <https://docs.katalon.com/docs/get-started/katalon-studio-installation/install-katalon-studio-on-macoswindows#download-katalon-studio> "Katalon Studio"
 
 **Repository for the Sample Project:**
 https://github.com/katalon-studio-samples/katalon-octoperf-sample.git
