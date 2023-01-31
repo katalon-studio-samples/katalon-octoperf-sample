@@ -53,11 +53,10 @@ Test a application (https://www.katalonhealthcare.com) with 10 users
   
   ![image](https://user-images.githubusercontent.com/84115288/215849754-31324efd-0958-43f5-ae6c-90a40a11d58d.png)
 
+**Repository for the [Sample Project][SP]**
 
 [KS]: <https://docs.katalon.com/docs/get-started/katalon-studio-installation/install-katalon-studio-on-macoswindows#download-katalon-studio> "Katalon Studio"
+[SP]: <https://github.com/katalon-studio-samples/katalon-octoperf-sample.git> "Sample Project"
 
-**Repository for the Sample Project:**
-https://github.com/katalon-studio-samples/katalon-octoperf-sample.git
 
-Thanks.
 
