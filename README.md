@@ -53,7 +53,7 @@ Test a application (https://www.katalonhealthcare.com) with 10 users
   
   ![image](https://user-images.githubusercontent.com/84115288/215849754-31324efd-0958-43f5-ae6c-90a40a11d58d.png)
   
-  * Now user can upload the performance report into TestOps.
+* Now user can upload the performance report into TestOps.
 
 **Repository for the [Sample Project][SP]**
 
