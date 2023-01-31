@@ -46,7 +46,9 @@ Test a application (https://www.katalonhealthcare.com) with 10 users
 * Use Octoperf APIs to download report from katalon.
 
   Request No 1 - https://api.octoperf.com/tasks
+  
   Request No 2 - https://api.octoperf.com/analysis/bench-reports/${benchReportId}
+  
   Request No 3 - https://api.octoperf.com/analysis/logs/${benchResultIds}?filename=${filename}
   
   ![image](https://user-images.githubusercontent.com/84115288/215849754-31324efd-0958-43f5-ae6c-90a40a11d58d.png)
