@@ -43,7 +43,14 @@ Test a application (https://www.katalonhealthcare.com) with 10 users
 
 ![image](https://user-images.githubusercontent.com/84115288/214033013-94b92dbd-2a6a-4ae7-ad9d-87f41a4c9161.png)
 
-* Download the report by using the katalon-octoperf-sample project.
+* Use Octoperf APIs to download report from katalon.
+
+  Request No 1 - https://api.octoperf.com/tasks
+  Request No 2 - https://api.octoperf.com/analysis/bench-reports/${benchReportId}
+  Request No 3 - https://api.octoperf.com/analysis/logs/${benchResultIds}?filename=${filename}
+  
+  ![image](https://user-images.githubusercontent.com/84115288/215849754-31324efd-0958-43f5-ae6c-90a40a11d58d.png)
+
 
 [KS]: <https://docs.katalon.com/docs/get-started/katalon-studio-installation/install-katalon-studio-on-macoswindows#download-katalon-studio> "Katalon Studio"
 
