@@ -55,10 +55,8 @@ Test a application (https://www.katalonhealthcare.com) with 10 users
   
 * Now user can upload the performance report into TestOps.
 
-**Repository for the [Sample Project][SP]**
 
 [KS]: <https://docs.katalon.com/docs/get-started/katalon-studio-installation/install-katalon-studio-on-macoswindows#download-katalon-studio> "Katalon Studio"
-[SP]: <https://github.com/katalon-studio-samples/katalon-octoperf-sample.git> "Sample Project"
 
 
 
