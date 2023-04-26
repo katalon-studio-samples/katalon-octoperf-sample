@@ -5,13 +5,13 @@
 
 Performance Testing is a software testing process used for testing the speed, response time, stability, reliability, scalability, and resource usage of a software application under a particular workload. The main purpose of performance testing is to identify and eliminate the performance bottlenecks in the software application.
 
-Key parameter of Performance Testing
+**Key parameter of Performance Testing
 
-Speed – Determines whether the application responds quickly
-Scalability – Determines the maximum user load the software application can handle.
-Stability – Determines if the application is stable under varying loads
+* Speed – Determines whether the application responds quickly
+* Scalability – Determines the maximum user load the software application can handle.
+* Stability – Determines if the application is stable under varying loads
 
-Types of Performance Testing
+**Types of Performance Testing
 * Load testing – checks the application’s ability to perform under anticipated user loads. The objective is to identify performance bottlenecks before the software application goes live.
 * Stress testing – involves testing an application under extreme workloads to see how it handles high traffic or data processing. The objective is to identify the breaking point of an application.
 * Volume testing – Under Volume Testing large no. of. Data is populated in a database, and the overall software system’s behavior is monitored. The objective is to check software application’s performance under varying database volumes.
