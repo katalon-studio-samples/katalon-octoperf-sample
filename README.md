@@ -38,6 +38,13 @@ This project demonstrates how Katalon Studio helps users to perform the performa
 * [Katalon Studio][KS]
 * Octoperf Account.
 
+# Account Setup in Octoperf
+
+* Login into the octoperf account
+* Create a Wokspace and Copy the worksapce id from URL. ![image](https://user-images.githubusercontent.com/84115288/234657872-c7ee3acb-aa57-4706-bcda-33aefdf65d83.png)
+* Create a project and copt the project id from the URl. ![image](https://user-images.githubusercontent.com/84115288/234658135-3ea29580-f470-43c3-b438-61f0c33ce1aa.png)
+
+
 
 # How to automate
 * Generate a .har file on browser(Chrome/firefox) by recording all the action for your test website
