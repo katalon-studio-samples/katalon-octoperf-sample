@@ -31,10 +31,7 @@ Analyze bench reports to find performance bottlenecks.
 Katalon is a modern, comprehensive quality management platform that helps teams of any size deliver the highest quality digital experiences. Katalon Studio is a comprehensive toolset for web, API, mobile, and desktop app automation testing.
 
 # Katalon Platfrom with Octoperf
-
-# Use case
-
-Test a application (https://www.katalonhealthcare.com) with 10 users
+This project demonstrates how Katalon Studio helps users to perform the performance testing by using octoperf. I have build a test suite which is triggring Load test from octoperf.
 
 
 # Prerequisite
