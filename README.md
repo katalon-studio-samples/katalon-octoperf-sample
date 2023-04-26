@@ -54,7 +54,14 @@ This project demonstrates how Katalon Studio helps users to perform the performa
   * Postman collection
   * Fragments
   We am using [Browser Record(HAR)][CR] for the Vitrual user so we generating a .har file on browser(Chrome/firefox) by recording all the action for test application.
-<img width="1440" alt="Screenshot 2023-01-23 at 5 11 08 PM" src="https://user-images.githubusercontent.com/84115288/214031446-3ec9cad2-4881-45fb-af59-48cfb9d4c4a0.png">
+  <img width="1440" alt="Screenshot 2023-01-23 at 5 11 08 PM" src="https://user-images.githubusercontent.com/84115288/214031446-3ec9cad2-4881-45fb-af59-48cfb9d4c4a0.png">
+
+* Go with the Virtual User Validation check.
+* Click on [Execute Load Test][ELT] ![image](https://user-images.githubusercontent.com/84115288/234665108-bed98ad2-f98b-426a-9f74-d0c6d621a99e.png)
+* Click on Scenaio and Copy Scenario Id. ![image](https://user-images.githubusercontent.com/84115288/234665439-3b944583-db9b-4e4a-8eaa-d4615280cc26.png)
+* Enter the [Time of occurrence and number of concurrent users][ONCU] ![image](https://user-images.githubusercontent.com/84115288/234666403-bee739d9-1adf-4fa4-8b10-3bc12dd62f1a.png)
+
+
 
 * Setup your project on Octoperf(https://api.octoperf.com/)
 
@@ -90,6 +97,10 @@ This project demonstrates how Katalon Studio helps users to perform the performa
 [VU]: <https://api.octoperf.com/doc/design/#create-a-vu> "Virtual User"
 
 [CR]: <https://api.octoperf.com/doc/design/create-virtual-user/record-chrome-har/> "Browser Record(HAR)"
+
+[ELT]: <https://api.octoperf.com/doc/runtime/#runtime-scenarios-list> "Execute Load Test"
+
+[ONCU]: https://api.octoperf.com/doc/runtime/edit-scenario/edit-user-profile/strategy/load/> "Time of occurrence and number of concurrent users"
 
 
 
