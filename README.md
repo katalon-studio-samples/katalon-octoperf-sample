@@ -75,7 +75,13 @@ This project demonstrates how Katalon Studio helps users to perform the performa
 
 ![image](https://user-images.githubusercontent.com/84115288/234667381-c21efa24-c946-46b3-961a-b02a7a9bca22.png)
 
-
+# Project Setup in Katalon
+* Create a project.
+* Add all the store values for octoperf into katalon Profile.
+   * Template Id.
+   * Scenario Id
+   * Worksapce Id
+   * Project Id
 
 * Use Octoperf APIs to download report from katalon.
 
