@@ -113,8 +113,7 @@ This project demonstrates how Katalon Studio helps users to perform the performa
 
  ![image](https://user-images.githubusercontent.com/84115288/234676193-724de98b-359e-4c93-8cb8-d0b70ee00adf.png)
  ![image](https://user-images.githubusercontent.com/84115288/234676442-86a6f25b-a04c-4809-9774-31323c8bb3dd.png)
- ![Uploading image.png…]()
-
+ ![image](https://user-images.githubusercontent.com/84115288/234678697-550f764e-5b45-4688-9da3-70d5f3f42726.png)
 
 
 
