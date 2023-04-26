@@ -96,21 +96,23 @@ This project demonstrates how Katalon Studio helps users to perform the performa
  
  ![image](https://user-images.githubusercontent.com/84115288/234673222-0a54f1eb-2637-4cef-a1a5-efd8baad3260.png)
  
- # Create Test Cases and Extract the values from APIs
+ * Create Test Cases and Extract the values from APIs
  
- * Test Case No 1: TC001_Executes the scenario with the given ID
+  * Test Case No 1: TC001_Executes the scenario with the given ID
    ![image](https://user-images.githubusercontent.com/84115288/234673845-815063c6-9648-4634-8aa0-c6a2ba3797d8.png)
- * Test Case No 2: TC002_Track Run Progress
- ![image](https://user-images.githubusercontent.com/84115288/234674203-b04a13c2-b28f-4ab2-873a-00fbf18da1f2.png)
-* Test Case No 3: TC003_Download PDF Report
- ![image](https://user-images.githubusercontent.com/84115288/234674705-4a0d3cf1-0ffd-4148-86c5-6d679c0c69bf.png)
+  * Test Case No 2: TC002_Track Run Progress
+   ![image](https://user-images.githubusercontent.com/84115288/234674203-b04a13c2-b28f-4ab2-873a-00fbf18da1f2.png)
+  * Test Case No 3: TC003_Download PDF Report
+   ![image](https://user-images.githubusercontent.com/84115288/234674705-4a0d3cf1-0ffd-4148-86c5-6d679c0c69bf.png)
 
-# Create a Test Suite and Add all the above test cases.
+* Create a Test Suite and Add all the above test cases.
+
  ![image](https://user-images.githubusercontent.com/84115288/234675263-6e5b5dac-32a5-4b49-825d-288480e450f8.png)
 
-# Run Katalon Test suite and verify the report downloaded on the project root directory.
+* Run Katalon Test suite and verify the report downloaded on the project root directory.
+
  ![image](https://user-images.githubusercontent.com/84115288/234676193-724de98b-359e-4c93-8cb8-d0b70ee00adf.png)
-![image](https://user-images.githubusercontent.com/84115288/234676442-86a6f25b-a04c-4809-9774-31323c8bb3dd.png)
+ ![image](https://user-images.githubusercontent.com/84115288/234676442-86a6f25b-a04c-4809-9774-31323c8bb3dd.png)
 
 
 
