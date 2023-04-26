@@ -5,13 +5,14 @@
 
 Performance Testing is a software testing process used for testing the speed, response time, stability, reliability, scalability, and resource usage of a software application under a particular workload. The main purpose of performance testing is to identify and eliminate the performance bottlenecks in the software application.
 
-** Key parameter of Performance Testing
+Key parameter of Performance Testing
 
 * Speed – Determines whether the application responds quickly
 * Scalability – Determines the maximum user load the software application can handle.
 * Stability – Determines if the application is stable under varying loads
 
-** Types of Performance Testing
+Types of Performance Testing
+
 * Load testing – checks the application’s ability to perform under anticipated user loads. The objective is to identify performance bottlenecks before the software application goes live.
 * Stress testing – involves testing an application under extreme workloads to see how it handles high traffic or data processing. The objective is to identify the breaking point of an application.
 * Volume testing – Under Volume Testing large no. of. Data is populated in a database, and the overall software system’s behavior is monitored. The objective is to check software application’s performance under varying database volumes.
@@ -19,11 +20,17 @@ Performance Testing is a software testing process used for testing the speed, re
 
 # What is Octoperf
 
-OctoPerf is a commercial Saas and on Premise platform. Saas means Software As A Service. It's a full-stack cloud load testing platform. It allows simulating thousands of concurrent users on any HTTP-based website or mobile application. On premise means you can install your own OctoPerf platform anywhere you want. It has the following key features:
+OctoPerf is a commercial Saas and on Premise platform. It's a full-stack cloud load testing platform. It allows simulating thousands of concurrent users on any HTTP-based website or mobile application. On premise means you can install your own OctoPerf platform anywhere you want. It has the following key features:
 Record and design realistic Virtual User,
 Monitor your servers,
 Run scenarios from multiple locations (Europe, USA and more),
 Analyze bench reports to find performance bottlenecks.
+
+# Katalon Plateform
+
+Katalon is a modern, comprehensive quality management platform that helps teams of any size deliver the highest quality digital experiences. Katalon Studio is a comprehensive toolset for web, API, mobile, and desktop app automation testing.
+
+# Katalon Platefrom with Octoperf
 
 # Use case
 
