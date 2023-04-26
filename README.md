@@ -48,11 +48,11 @@ This project demonstrates how Katalon Studio helps users to perform the performa
 
 * Create Virtual Users: A [Virtual User][VU] (shortened VU) represents a user journey through your application. It lets you simulate a real user behavior.
   You are then prompted with several options:
-  Website or REST API
-  Browser record
-  Jmeter Project
-  Postman collection
-  Fragments
+  * Website or REST API
+  * Browser record
+  * Jmeter Project
+  * Postman collection
+  * Fragments
   
 
 
