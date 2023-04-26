@@ -42,11 +42,11 @@ This project demonstrates how Katalon Studio helps users to perform the performa
 
 * Login into the octoperf account
 
-* Create a Wokspace and Copy the worksapce id from URL. 
+* Create a Wokspace and copy the Workspace Id from URL. 
 
 ![image](https://user-images.githubusercontent.com/84115288/234657872-c7ee3acb-aa57-4706-bcda-33aefdf65d83.png)
 
-* Create a project and copt the project id from the URl. 
+* Create a project and copy Project Id from the URL. 
  
 ![image](https://user-images.githubusercontent.com/84115288/234658135-3ea29580-f470-43c3-b438-61f0c33ce1aa.png)
 
@@ -65,13 +65,13 @@ This project demonstrates how Katalon Studio helps users to perform the performa
 * Click on [Execute Load Test][ELT] 
 
 ![image](https://user-images.githubusercontent.com/84115288/234665108-bed98ad2-f98b-426a-9f74-d0c6d621a99e.png)
-* Click on Scenaio and Copy Scenario Id.
+* Click on Scenaio and copy Scenario Id from the URL.
 
 ![image](https://user-images.githubusercontent.com/84115288/234665439-3b944583-db9b-4e4a-8eaa-d4615280cc26.png)
 * Enter the [Time of occurrence and number of concurrent users][ONCU] 
 
 ![image](https://user-images.githubusercontent.com/84115288/234666403-bee739d9-1adf-4fa4-8b10-3bc12dd62f1a.png)
-* Click on Templates >> Extract Template and Copy the Template Id.
+* Click on Templates >> Extract Template and copy Template Id from the URL.
 
 ![image](https://user-images.githubusercontent.com/84115288/234667381-c21efa24-c946-46b3-961a-b02a7a9bca22.png)
 
