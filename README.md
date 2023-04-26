@@ -82,6 +82,20 @@ This project demonstrates how Katalon Studio helps users to perform the performa
    * Scenario Id
    * Worksapce Id
    * Project Id
+   * OCtoperf API Key
+![image](https://user-images.githubusercontent.com/84115288/234672155-16caadd3-abda-4c71-8d0c-8cd842eb7837.png)
+
+* Create APIs within Object repository.
+  * POST https://api.octoperf.com/runtime/scenarios/run/<scenarioId>?templateId=<templateId>
+
+![image](https://user-images.githubusercontent.com/84115288/234672691-8b47b3a0-eae8-4516-95ad-461f949d19b6.png)
+ 
+  * https://api.octoperf.com/runtime/bench-results/progress/${benchResultId}
+ 
+ ![image](https://user-images.githubusercontent.com/84115288/234673222-0a54f1eb-2637-4cef-a1a5-efd8baad3260.png)
+
+
+
 
 * Use Octoperf APIs to download report from katalon.
 
