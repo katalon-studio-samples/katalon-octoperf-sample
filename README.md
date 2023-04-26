@@ -41,8 +41,19 @@ This project demonstrates how Katalon Studio helps users to perform the performa
 # Account Setup in Octoperf
 
 * Login into the octoperf account
+
 * Create a Wokspace and Copy the worksapce id from URL. ![image](https://user-images.githubusercontent.com/84115288/234657872-c7ee3acb-aa57-4706-bcda-33aefdf65d83.png)
+
 * Create a project and copt the project id from the URl. ![image](https://user-images.githubusercontent.com/84115288/234658135-3ea29580-f470-43c3-b438-61f0c33ce1aa.png)
+
+* Create Virtual Users: A Virtual User[VU] (shortened VU) represents a user journey through your application. It lets you simulate a real user behavior.
+  You are then prompted with several options:
+  Website or REST API
+  Browser record
+  Jmeter Project
+  Postman collection
+  Fragments
+  
 
 
 
@@ -81,6 +92,8 @@ This project demonstrates how Katalon Studio helps users to perform the performa
 
 
 [KS]: <https://docs.katalon.com/docs/get-started/katalon-studio-installation/install-katalon-studio-on-macoswindows#download-katalon-studio> "Katalon Studio"
+
+[VU]: <https://api.octoperf.com/doc/design/#create-a-vu> "Virtual User"
 
 
 
