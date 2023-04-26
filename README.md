@@ -26,11 +26,11 @@ Monitor your servers,
 Run scenarios from multiple locations (Europe, USA and more),
 Analyze bench reports to find performance bottlenecks.
 
-# Katalon Plateform
+# Katalon Platform
 
 Katalon is a modern, comprehensive quality management platform that helps teams of any size deliver the highest quality digital experiences. Katalon Studio is a comprehensive toolset for web, API, mobile, and desktop app automation testing.
 
-# Katalon Platefrom with Octoperf
+# Katalon Platfrom with Octoperf
 
 # Use case
 
