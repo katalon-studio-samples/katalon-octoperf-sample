@@ -42,9 +42,13 @@ This project demonstrates how Katalon Studio helps users to perform the performa
 
 * Login into the octoperf account
 
-* Create a Wokspace and Copy the worksapce id from URL. ![image](https://user-images.githubusercontent.com/84115288/234657872-c7ee3acb-aa57-4706-bcda-33aefdf65d83.png)
+* Create a Wokspace and Copy the worksapce id from URL. 
 
-* Create a project and copt the project id from the URl. ![image](https://user-images.githubusercontent.com/84115288/234658135-3ea29580-f470-43c3-b438-61f0c33ce1aa.png)
+![image](https://user-images.githubusercontent.com/84115288/234657872-c7ee3acb-aa57-4706-bcda-33aefdf65d83.png)
+
+* Create a project and copt the project id from the URl. 
+ 
+![image](https://user-images.githubusercontent.com/84115288/234658135-3ea29580-f470-43c3-b438-61f0c33ce1aa.png)
 
 * Create Virtual Users: A [Virtual User][VU] (shortened VU) represents a user journey through your application. It lets you simulate a real user behavior.
   You are then prompted with several options:
@@ -54,30 +58,24 @@ This project demonstrates how Katalon Studio helps users to perform the performa
   * Postman collection
   * Fragments
   We am using [Browser Record(HAR)][CR] for the Vitrual user so we generating a .har file on browser(Chrome/firefox) by recording all the action for test application.
+  
   <img width="1440" alt="Screenshot 2023-01-23 at 5 11 08 PM" src="https://user-images.githubusercontent.com/84115288/214031446-3ec9cad2-4881-45fb-af59-48cfb9d4c4a0.png">
 
 * Go with the Virtual User Validation check.
-* Click on [Execute Load Test][ELT] ![image](https://user-images.githubusercontent.com/84115288/234665108-bed98ad2-f98b-426a-9f74-d0c6d621a99e.png)
-* Click on Scenaio and Copy Scenario Id. ![image](https://user-images.githubusercontent.com/84115288/234665439-3b944583-db9b-4e4a-8eaa-d4615280cc26.png)
-* Enter the [Time of occurrence and number of concurrent users][ONCU] ![image](https://user-images.githubusercontent.com/84115288/234666403-bee739d9-1adf-4fa4-8b10-3bc12dd62f1a.png)
+* Click on [Execute Load Test][ELT] 
+
+![image](https://user-images.githubusercontent.com/84115288/234665108-bed98ad2-f98b-426a-9f74-d0c6d621a99e.png)
+* Click on Scenaio and Copy Scenario Id.
+
+![image](https://user-images.githubusercontent.com/84115288/234665439-3b944583-db9b-4e4a-8eaa-d4615280cc26.png)
+* Enter the [Time of occurrence and number of concurrent users][ONCU] 
+
+![image](https://user-images.githubusercontent.com/84115288/234666403-bee739d9-1adf-4fa4-8b10-3bc12dd62f1a.png)
+* Click on Templates >> Extract Template and Copy the Template Id.
+
+![image](https://user-images.githubusercontent.com/84115288/234667381-c21efa24-c946-46b3-961a-b02a7a9bca22.png)
 
 
-
-* Setup your project on Octoperf(https://api.octoperf.com/)
-
-![image](https://user-images.githubusercontent.com/84115288/214032009-071306ad-8afd-4ec1-853c-29b355eb9134.png)
-
-* Increasing the virtual load.
-
-![image](https://user-images.githubusercontent.com/84115288/214032175-0d116ae6-61a4-4171-ba47-94d7ddf4d8b0.png)
-
-* Run and analysis the test.
-
-![image](https://user-images.githubusercontent.com/84115288/214032821-102624f1-4eb1-41e9-8b60-2c4e64f34f01.png)
-
-* Verify the report in pdf format.
-
-![image](https://user-images.githubusercontent.com/84115288/214033013-94b92dbd-2a6a-4ae7-ad9d-87f41a4c9161.png)
 
 * Use Octoperf APIs to download report from katalon.
 
