@@ -95,21 +95,28 @@ This project demonstrates how Katalon Studio helps users to perform the performa
 
 
 * Create APIs within Object repository.
-  * POST https://api.octoperf.com/runtime/scenarios/run/<scenarioId>?templateId=<templateId>
+  * API EndPoint - POST https://api.octoperf.com/runtime/scenarios/run/<scenarioId>?templateId=<templateId>
+  * Http Header - Authorization - Bearer ${apikey}
+
 
 ![image](https://user-images.githubusercontent.com/84115288/234672691-8b47b3a0-eae8-4516-95ad-461f949d19b6.png)
  
-  * https://api.octoperf.com/runtime/bench-results/progress/${benchResultId}
+  * API EndPoint - https://api.octoperf.com/runtime/bench-results/progress/${benchResultId}
+  * Http Header - Authorization - Bearer ${apikey}
+
  
  ![image](https://user-images.githubusercontent.com/84115288/234673222-0a54f1eb-2637-4cef-a1a5-efd8baad3260.png)
  
  * Create Test Cases and Extract the values from APIs
  
   * Test Case No 1: TC001_Executes the scenario with the given ID
+  
    ![image](https://user-images.githubusercontent.com/84115288/234673845-815063c6-9648-4634-8aa0-c6a2ba3797d8.png)
   * Test Case No 2: TC002_Track Run Progress
+  
    ![image](https://user-images.githubusercontent.com/84115288/234674203-b04a13c2-b28f-4ab2-873a-00fbf18da1f2.png)
   * Test Case No 3: TC003_Download PDF Report
+  
    ![image](https://user-images.githubusercontent.com/84115288/234674705-4a0d3cf1-0ffd-4148-86c5-6d679c0c69bf.png)
 
 * Create a Test Suite and Add all the above test cases.
