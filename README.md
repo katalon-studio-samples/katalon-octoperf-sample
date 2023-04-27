@@ -1,5 +1,11 @@
 
-# Introduction
+# Performance Testing: Katalon and Octoperf
+
+Katalon and Octoperf play a critical role in the continuous performance testing process, where Octoperf can help in building the performance activity, and Katalon can trigger build activity and push performance reports into the Katalon platform. By integrating Katalon into Octoperf, you can ensure that you have comprehensive end-to-end test coverage in a fully automated way.  The integration between these two solutions will help you automate the build, test, and deployment of your applications.
+
+
+To integrate these two applications, first we need to prepare an Octoperf workspace with all the necessary performance activity and then we have to call the Octoperf apis within Katalon Studio which can generate a performance test report.  Finally, the results of test execution will be presented in the Katalon TestOps solution.
+
 
 # Performance Testing
 
@@ -26,13 +32,13 @@ Monitor your servers,
 Run scenarios from multiple locations (Europe, USA and more),
 Analyze bench reports to find performance bottlenecks.
 
-# Katalon Platform
+# What is Katalon Platform
 
 Katalon is a modern, comprehensive quality management platform that helps teams of any size deliver the highest quality digital experiences. Katalon Studio is a comprehensive toolset for web, API, mobile, and desktop app automation testing.
 
 # Katalon Platfrom with Octoperf
-This project demonstrates how Katalon Studio helps users to perform the performance testing by using octoperf. I have build a test suite which is triggring Load test from octoperf.
 
+This project demonstrates how Katalon Studio helps users to perform the performance testing by using Octoperf. I have built a test suite which is triggering a Load test from Octoperf.
 
 # Prerequisite
 * [Katalon Studio][KS]
@@ -40,9 +46,9 @@ This project demonstrates how Katalon Studio helps users to perform the performa
 
 # Account Setup in Octoperf
 
-* Login into the octoperf account
+* Login into the Octoperf account
 
-* Create a Wokspace and copy the Workspace Id from URL. 
+* Create a Workspace and copy the Workspace Id from URL. 
 
 ![image](https://user-images.githubusercontent.com/84115288/234657872-c7ee3acb-aa57-4706-bcda-33aefdf65d83.png)
 
@@ -50,14 +56,15 @@ This project demonstrates how Katalon Studio helps users to perform the performa
  
 ![image](https://user-images.githubusercontent.com/84115288/234658135-3ea29580-f470-43c3-b438-61f0c33ce1aa.png)
 
-* Create Virtual Users: A [Virtual User][VU] (shortened VU) represents a user journey through your application. It lets you simulate a real user behavior.
+* Create Virtual Users: A [Virtual User][VU] represents a user journey through your application. It lets you simulate a real user behavior.
   You are then prompted with several options:
   * Website or REST API
   * Browser Record(HAR)
   * Jmeter Project
   * Postman collection
   * Fragments
-  We am using [Browser Record(HAR)][CR] for the Vitrual user so we generating a .har file on browser(Chrome/firefox) by recording all the action for test application.
+  
+  We are using Browser Record(HAR) for the Virtual user so we generate a .har file on browser(Chrome/firefox) by recording all the action for test application.
   
   <img width="1440" alt="Screenshot 2023-01-23 at 5 11 08 PM" src="https://user-images.githubusercontent.com/84115288/214031446-3ec9cad2-4881-45fb-af59-48cfb9d4c4a0.png">
 
@@ -65,13 +72,13 @@ This project demonstrates how Katalon Studio helps users to perform the performa
 * Click on [Execute Load Test][ELT] 
 
 ![image](https://user-images.githubusercontent.com/84115288/234665108-bed98ad2-f98b-426a-9f74-d0c6d621a99e.png)
-* Click on Scenaio and copy Scenario Id from the URL.
+* Click on Scenario and copy Scenario Id from the URL.
 
 ![image](https://user-images.githubusercontent.com/84115288/234665439-3b944583-db9b-4e4a-8eaa-d4615280cc26.png)
 * Enter the [Time of occurrence and number of concurrent users][ONCU] 
 
 ![image](https://user-images.githubusercontent.com/84115288/234666403-bee739d9-1adf-4fa4-8b10-3bc12dd62f1a.png)
-* Click on Templates >> Extract Template and copy Template Id from the URL.
+* Click on Templates, Extract Template and copy Template Id from the URL.
 
 ![image](https://user-images.githubusercontent.com/84115288/234667381-c21efa24-c946-46b3-961a-b02a7a9bca22.png)
 
